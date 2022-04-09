@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @maximLyakhov
-- 👀 I’m interested in Angular, NestJS, RxJS, MongoDB
+- 👀 I’m interested in Angular, NestJS, RxJS, NGXS, MongoDB
