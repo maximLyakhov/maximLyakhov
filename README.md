@@ -1,5 +1,4 @@
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximLyakhov&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @maximLyakhov
 - 👀 I’m interested in Angular, NestJS, RxJS, NGXS, MongoDB
-
-![optional-description-here](https://drive.google.com/file/d/19D6CpCUqa42hsBZJpyXISaDnNforYp53/view?usp=sharing)
+- <a href="https://my.github.io/files/paper.pdf](https://drive.google.com/file/d/19D6CpCUqa42hsBZJpyXISaDnNforYp53/view?usp=sharing">Curriculum vitae</a>
