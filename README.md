@@ -1,2 +1,3 @@
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximLyakhov&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 👀 I’m interested in Angular, RxJS, NGXS
+- Angular
+- RxJS
+- NGXS
